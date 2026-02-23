@@ -1,6 +1,6 @@
 # 📚 Bibliography App (Django)
 
-A secure document management system for SGS that allows users to:
+A secure document management system that allows users to:
 
 - Browse and search technical reports
 - View PDF files securely using token-based access
@@ -63,7 +63,7 @@ to generate limited-time access tokens for PDFs stored in media/.
 
 👨‍💻 Author
 
-Ahmed Shehta
+Ahmed Shehta (https://ahmed-shehta.netlify.app)
 
 
 
