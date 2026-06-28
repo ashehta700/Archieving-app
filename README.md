@@ -1,4 +1,4 @@
-# 📚 Bibliography App (Django)
+# 📚 Archieving  App (Django)
 
 A secure document management system that allows users to:
 
